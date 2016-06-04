@@ -1,0 +1,3 @@
+Smoke test
+In this tests we are create all possible smoke testing scenarios
+As a QA, User, Developer I want verify main functionality over and over
